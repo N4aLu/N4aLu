@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @N4aLu
-- 👀 I’m interested in programming and art[
+- 👀 I’m interested in programming and art
 - 🌱 I’m currently learning python, js and html
 - 📫 How to reach me, my discord is "kkkai." and my instagram of art is "@n4_arte"
 
